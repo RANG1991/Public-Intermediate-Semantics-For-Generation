@@ -218,7 +218,7 @@ def get_last_checkpoint_dir(output_dir, prefix, accelerator, get_best=False, dow
     path = dirs[-1] if len(dirs) > 0 else None
     with accelerator.main_process_first() if accelerator is not None else nullcontext():
         if path is None or download_from_hub:
-            login("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")
+            # login("")
             fs = HfFileSystem()
             api = HfApi()
             files_from_repo_folder = fs.glob(f"RanG1991/inter-rep-sd-control/{Path(output_dir).name}/{prefix}/*")
