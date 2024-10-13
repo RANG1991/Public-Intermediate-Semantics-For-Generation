@@ -52,7 +52,7 @@
 
 </br>
 <div align="center">
-  <p><em>Quantative results.</em></p>
+  <p><em>Quantitative results.</em></p>
   <img src="https://github.com/RANG1991/Intermediate-semantics-for-generation/blob/master/static/images/Results_FID_CLIP.png" 
   alt="quantative_results" 
   style="width:700px;height:500px;">
