@@ -1,0 +1,32 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - python
+  - pip
+  - cudatoolkit
+  - pytorch
+  - torchvision
+  - numpy
+  - pip:
+      - gradio
+      - albumentations
+      - imageio
+      - imageio-ffmpeg
+      - omegaconf
+      - test-tube
+      - streamlit
+      - einops
+      - transformers
+      - webdataset
+      - kornia
+      - open_clip_torch
+      - invisible-watermark
+      - streamlit-drawable-canvas
+      - torchmetrics
+      - timm
+      - addict
+      - yapf
+      - prettytable
+      - safetensors
+      - basicsr
