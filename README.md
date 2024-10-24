@@ -45,7 +45,7 @@
 </br>
 <div align="center">
   <p><em>Qualitative results.</em></p>
-  <img src="https://github.com/RANG1991/Public-Intermediate-Semantics-For-Generation/blob/master/static/images/Results_Figure_separate_controls.png" 
+  <img src="https://github.com/RANG1991/Public-Intermediate-Semantics-For-Generation/blob/main/static/images/Results_Figure_separate_controls.png" 
   alt="qualitative_results" 
   style="width:700px;height:500px;">
 </div>
@@ -53,7 +53,7 @@
 </br>
 <div align="center">
   <p><em>Quantitative results.</em></p>
-  <img src="https://github.com/RANG1991/Public-Intermediate-Semantics-For-Generation/blob/master/static/images/Results_FID_CLIP.png" 
+  <img src="https://github.com/RANG1991/Public-Intermediate-Semantics-For-Generation/blob/main/static/images/Results_FID_CLIP.png" 
   alt="quantative_results" 
   style="width:700px;height:500px;">
 </div>
@@ -61,7 +61,7 @@
 </br>
 <div align="center">
   <p><em>The pipeline of our model. First, we used Stable Diffusion to generate single or multiple aligned representation(s). Second, we used these representation(s) to generate the final image.</em></p>
-  <img src="https://github.com/RANG1991/Public-Intermediate-Semantics-For-Generation/blob/master/static/images/Pipeline_Figure_separate_controls.png" 
+  <img src="https://github.com/RANG1991/Public-Intermediate-Semantics-For-Generation/blob/main/static/images/Pipeline_Figure_separate_controls.png" 
   alt="Pipeline_model" 
   style="width:800px;height:500px;">
 </div>
@@ -69,7 +69,7 @@
 </br>
 <div align="center">
   <p><em>The pipeline of our alignment model. We interleaved two U-Nets of two pre-trained Stable Diffusion models by adding temporal layers, in order to align two representations together.</em></p>
-  <img src="https://github.com/RANG1991/Public-Intermediate-Semantics-For-Generation/blob/master/static/images/Pipeline_Figure_2_controls_detailed.png" 
+  <img src="https://github.com/RANG1991/Public-Intermediate-Semantics-For-Generation/blob/main/static/images/Pipeline_Figure_2_controls_detailed.png" 
   alt="Pipeline_alignment_model" 
   style="width:800px;height:500px;">
 </div>
