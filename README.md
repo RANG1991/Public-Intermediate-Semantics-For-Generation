@@ -38,8 +38,7 @@
 * keep it short and sweet
 -->
 <div align="center">
-  In this project, we intestigated the use of intermediate representations (e.g. segmentation maps and depth maps) to enhance the preformance of image generation of Stable Diffusion model (text-to-image diffusion model).
-  More specifically, we operated in two stages, where in the first stage we used Stable Diffusion to generate an intermediate representation(s), and in the second stage we used ControlNet model to generate an image based on these representation(s).
+For this project, we investigated the use of intermediate representations (e.g. segmentation maps and depth maps) to enhance the performance of the Stable Diffusion Model (text-to-image diffusion model). More specifically, we operated in two stages, in the first stage using Stable Diffusion to generate an intermediate representation(s), and in the second stage using ControlNet to produce an image based on these representation(s).
 </div>
 
 </br>
