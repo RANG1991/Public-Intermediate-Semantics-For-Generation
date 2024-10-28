@@ -59,7 +59,7 @@ For this project, we investigated the use of intermediate representations (e.g. 
 
 </br>
 <div align="center">
-  <p><em>The pipeline of our model. First, we used Stable Diffusion to generate single or multiple aligned representation(s). Second, we used these representation(s) to generate the final image.</em></p>
+  <p><em>The pipeline of our model. In the first step, we used Stable Diffusion to generate single or multiple aligned representation(s). In the second step, we used these representation(s) to generate the final image.</em></p>
   <img src="https://github.com/RANG1991/Public-Intermediate-Semantics-For-Generation/blob/main/static/images/Pipeline_Figure_separate_controls.png" 
   alt="Pipeline_model" 
   style="width:800px;height:500px;">
