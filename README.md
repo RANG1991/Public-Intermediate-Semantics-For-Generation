@@ -67,7 +67,7 @@ For this project, we investigated the use of intermediate representations (e.g. 
 
 </br>
 <div align="center">
-  <p><em>The pipeline of our alignment model. In order to align two representations together, we interleaved two U-Nets from two pre-trained Stable Diffusion models.</em></p>
+  <p><em>To align two representations, two U-Nets of pre-trained Stable Diffusion models were interleaved by adding temporal layers.</em></p>
   <img src="https://github.com/RANG1991/Public-Intermediate-Semantics-For-Generation/blob/main/static/images/Pipeline_Figure_2_controls_detailed.png" 
   alt="Pipeline_alignment_model" 
   style="width:800px;height:500px;">
